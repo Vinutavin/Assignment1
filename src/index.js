@@ -1,15 +1,22 @@
 import { StrictMode } from "react";
+import "bootstrap/dist/css/bootstrap.min.css";
 import ReactDOM from "react-dom";
-import "./styles.css";
+import "./Css/styles.css";
 
 import Logo from "./Logo";
 import Topmenu from "./Topmenu";
+import Breakingnews from "./Breakingnews";
+import Footer from "./footer";
 
 const rootElement = document.getElementById("root");
 ReactDOM.render(
-  <StrictMode>
-    <Logo />
-    <Topmenu />
-  </StrictMode>,
+  <div className="container">
+    <StrictMode>
+      <Logo />
+      <Topmenu />
+      <Breakingnews />
+      <Footer />
+    </StrictMode>
+  </div>,
   rootElement
 );

@@ -2,25 +2,23 @@
 
 export default function App(props) {
   return (
-    <div className="Topmenu">
-      <nav class="navbar navbar-default navbar-fixed-top">
-        <div class="container">
-          <div class="navbar-header">
-            <ul class="nav navbar-nav">
-              <li class="active">
-                <a href="/">Home</a>
-              </li>
-              <li>
-                <a href="/">Trending</a>
-              </li>
-              <li>
-                <a href="/">Sports</a>
-              </li>
-              <li>
-                <a href="/">Politics</a>
-              </li>
-            </ul>
-          </div>
+    <div classname="Topmenu">
+      <nav className="navbar navbar-default navbar-fixed-top">
+        <div className="navbar-header navbar-header navbar-expand-lg ">
+          <ul className="nav navbar-nav">
+            <li className="active">
+              <a href="/">Home</a>
+            </li>
+            <li>
+              <a href="/">Trending</a>
+            </li>
+            <li>
+              <a href="/">Sports</a>
+            </li>
+            <li>
+              <a href="/">Politics</a>
+            </li>
+          </ul>
         </div>
       </nav>
     </div>
