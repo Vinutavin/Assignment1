@@ -35,7 +35,7 @@ export default function Breakingnews() {
                   <img src="assets/img/trending/trending_bottom1.jpg" alt="" />
                 </div>
                 <div className="trend-bottom-cap">
-                  <span className="color1">Lifestyple</span>
+                  <span className="color">Lifestyple</span>
                   <h4>
                     <a href="details.html">
                       Get the Illusion of Fuller Lashes by “Mascng.”
@@ -57,7 +57,7 @@ export default function Breakingnews() {
                   <img src="assets/img/trending/trending_bottom2.jpg" alt="" />
                 </div>
                 <div className="trend-bottom-cap">
-                  <span className="color2">Sports</span>
+                  <span className="color">Sports</span>
 
                   <h4>
                     <a href="details.html">
@@ -80,7 +80,7 @@ export default function Breakingnews() {
                   <img src="assets/img/trending/trending_bottom3.jpg" alt="" />
                 </div>
                 <div className="trend-bottom-cap">
-                  <span className="color3">Travels</span>
+                  <span className="color">Travels</span>
                   <h4>
                     <a href="details.html">
                       {" "}

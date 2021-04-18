@@ -9,7 +9,7 @@ export default function Sidenews(props) {
           />
         </div>
         <div className="trand-right-cap">
-          <span className="color">Concert</span>
+          <span className="color">Entertainment</span>
           <h4>
             <a href="details.html">Welcome To The Best Model Winner Contest</a>
           </h4>
@@ -23,7 +23,7 @@ export default function Sidenews(props) {
           />
         </div>
         <div className="trand-right-cap">
-          <span className="color">sea beach</span>
+          <span className="color">Travel</span>
           <h4>
             <a href="details.html">Welcome To The Best Model Winner Contest</a>
           </h4>
@@ -37,7 +37,7 @@ export default function Sidenews(props) {
           />
         </div>
         <div className="trand-right-cap">
-          <span className="color">Bike Show</span>
+          <span className="color">Sport</span>
           <h4>
             <a href="details.html">Welcome To The Best Model Winner Contest</a>
           </h4>
@@ -51,7 +51,7 @@ export default function Sidenews(props) {
           />
         </div>
         <div className="trand-right-cap">
-          <span className="color">See beach</span>
+          <span className="color">Travel</span>
           <h4>
             <a href="details.html">Welcome To The Best Model Winner Contest</a>
           </h4>
@@ -65,7 +65,7 @@ export default function Sidenews(props) {
           />
         </div>
         <div className="trand-right-cap">
-          <span className="color">Skeping</span>
+          <span className="color">Sport</span>
           <h4>
             <a href="details.html">Welcome To The Best Model Winner Contest</a>
           </h4>
